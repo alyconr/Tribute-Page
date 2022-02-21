@@ -11,7 +11,7 @@ html {
 #background {
     width: auto;
     height: 30em; 
-    background: url('./images/space-1478064_1280.jpg');
+    background: url('./images/space-1478064_1280.jpg') ;
     background-size: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -35,7 +35,7 @@ html {
     width: 300px;
     position: relative;
     top: 10vh;
-    left: 10vw;
+    left: 5vw;
     border-radius: 50%;
 }
 
@@ -44,7 +44,7 @@ html {
 .header-center {
     color: rgb(234, 238, 241);
     position: relative;
-    left: 27vw;
+    left: 15vw;
     top: 13vh;
     font-size: 20px;
     width: 25vw;
@@ -61,7 +61,7 @@ html {
     line-height: 25px;
     border-radius: 5px;
     position: relative;
-    left: 30vw;
+    left: 15vw;
     top: 2vh;
     
 }
